@@ -28,5 +28,11 @@
     "name": "miles",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "37318338-23f9-3376-bca6-4bcc543a651f",
+    "name": "german",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
