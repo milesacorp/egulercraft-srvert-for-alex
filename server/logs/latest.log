@@ -225,3 +225,7 @@
 [03:22:32] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
 
 [03:22:46] [Server thread/INFO]: Set game difficulty to Easy
+[03:45:47] [Server thread/INFO]: [Server] miiles is gay
+[03:49:54] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
+
+[03:49:54] [Thread-2/INFO]: Stopping server

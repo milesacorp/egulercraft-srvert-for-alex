@@ -6,7 +6,7 @@ register:
   # When enabled, users need to enter a captcha upon registration.
   captcha: false
   # When enabled, requires users to enter their password twice upon registration.
-  confirm-password: false
+  confirm-password: true
 login:
   max-tries: 5
   # Only allow registered players to join using exactly the same name as registered.
