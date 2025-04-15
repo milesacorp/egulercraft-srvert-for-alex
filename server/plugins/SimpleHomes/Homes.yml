@@ -9,6 +9,11 @@ PenguinRobert:
     X: -89.8063089481187
     Y: 109.0
     Z: 119.9298453359608
+  spawn:
+    world: Leveled Up
+    X: -212.97561038088045
+    Y: 83.0
+    Z: 24.00263528319948
 ThatTurtle13:
   Turtle:
     world: Leveled Up
